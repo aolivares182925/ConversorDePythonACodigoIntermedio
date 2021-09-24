@@ -1,0 +1,21 @@
+a = 5 *6 + 2
+b = 0
+c = 0
+d = 0
+for i in range(0,a,5):
+	if (a % 2 > 0):
+		b = b + 1
+	else:
+		j = 0
+		while (j < 5):
+			aux = 0
+			if (j % 3 > 0):
+				aux = (2 + i) * 5
+			else:
+				aux = (5 + i) / 3
+			c = i * j + aux 
+			j = j + 1 
+		b = a * i
+	d = c * j
+
+X = a * 2 +( b + c *d * (2 + c) )

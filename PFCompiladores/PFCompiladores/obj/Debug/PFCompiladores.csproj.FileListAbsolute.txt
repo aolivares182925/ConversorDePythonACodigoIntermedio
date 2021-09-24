@@ -1,0 +1,14 @@
+D:\Compiladores\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.exe.config
+D:\Compiladores\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.exe
+D:\Compiladores\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.pdb
+D:\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.csproj.AssemblyReference.cache
+D:\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.csproj.CoreCompileInputs.cache
+D:\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.exe
+D:\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.pdb
+F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.exe.config
+F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.exe
+F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.pdb
+F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.csprojAssemblyReference.cache
+F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.csproj.CoreCompileInputs.cache
+F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.exe
+F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.pdb

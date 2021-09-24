@@ -1,0 +1,13 @@
+a = 2 * 3
+x =0
+while(a<  100):
+	b= 5	
+	while (b > 2):
+		if(a%2 > 0):
+			x = x+  1
+			y = 5
+			while(y> 0):
+				x = x* 2
+				y =y- 1
+		b = b - 1
+	a=a+1

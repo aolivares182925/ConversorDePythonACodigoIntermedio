@@ -1,0 +1,21 @@
+s = 70
+g = 0
+t = g + 5
+h = (3 * 5) + (4 * 6)
+if (g < 7):
+	h = h + g - 4
+	t = h + 3
+	if (h + 5 > 3 ):
+		t = t + g * h
+		h = h + 1
+		s = s - 1
+		if ( t -2 < 4 ):
+			s = s + 1
+		else:
+			s = s + 2
+	else:
+		h = h - 2
+else:
+	g = g * h
+g = g - 3
+

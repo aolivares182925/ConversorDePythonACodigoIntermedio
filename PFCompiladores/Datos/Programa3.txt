@@ -1,0 +1,17 @@
+a = (5 * 4) + 3 * (3 - 5)
+b = a + 3 - 2 * 5
+x = 0
+y = 0
+for i in range (0,5,1):
+	b = b + 1
+	a = b
+	for j in range (0,8,3):
+		x = i * j
+		y = x * a
+		a = x + y
+		for k in range (0,10,4):
+			b = b + 1
+			if (b > 6):
+				a = a - 1
+y = 5 * 7
+x = y - 1
