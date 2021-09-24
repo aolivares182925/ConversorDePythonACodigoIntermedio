@@ -12,3 +12,10 @@ F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\obj
 F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.csproj.CoreCompileInputs.cache
 F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.exe
 F:\Aler\TAREAS UNIVERSIDAD\2021-1\Compiladores\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.pdb
+E:\GITHUB REPOSITORIOS\ConversorDePythonACodigoIntermedio\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.exe.config
+E:\GITHUB REPOSITORIOS\ConversorDePythonACodigoIntermedio\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.exe
+E:\GITHUB REPOSITORIOS\ConversorDePythonACodigoIntermedio\PFCompiladores\PFCompiladores\bin\Debug\PFCompiladores.pdb
+E:\GITHUB REPOSITORIOS\ConversorDePythonACodigoIntermedio\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.csprojAssemblyReference.cache
+E:\GITHUB REPOSITORIOS\ConversorDePythonACodigoIntermedio\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.csproj.CoreCompileInputs.cache
+E:\GITHUB REPOSITORIOS\ConversorDePythonACodigoIntermedio\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.exe
+E:\GITHUB REPOSITORIOS\ConversorDePythonACodigoIntermedio\PFCompiladores\PFCompiladores\obj\Debug\PFCompiladores.pdb

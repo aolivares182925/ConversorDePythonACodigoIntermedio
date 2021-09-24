@@ -1,0 +1,18 @@
+Asignatura:	Compiladores
+Fecha: 		24/09/2021
+Integrantes:	
+		Aler Sebastian Olivares Camero		182925
+		Raisa Melina Peña Luque			182927
+		Miguel Vilcahuaman Caceres		174961
+
+Nota:
+El código del programa se encuentra escrito en C#, los ejemplos de prueba se encuentran en 
+Python.
+
+Instrucciones de uso:
+Al momento de ejecutar el programa se despliega un menu para ver los ejemplos disponibles, 
+seleccionar el deseado. 
+No es necesario copiar ningun codigo.
+
+GitHub:
+https://github.com/aolivares182925/ConversorDePythonACodigoIntermedio    
